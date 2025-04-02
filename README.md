@@ -36,7 +36,7 @@ This project simulates a coevolutionary system involving **predators** and **pre
 
 ![Simulation Animation Preview](results/coevolution.png)
 
-🎞️ Full video: [`results/animation.mp4`](results/animation.mp4)
+🎞️ Full video: [`results/animation.mp4`](results/animation.gif)
 
 ---
 
