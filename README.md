@@ -6,6 +6,7 @@ This project simulates a coevolutionary system involving **predators** and **pre
 
 ## 📁 Project Structure
 
+![Simulation Animation Preview](coevolution.png)
 ```
 .
 ├── entity.py              # Defines Entity, Prey, and Predator classes
