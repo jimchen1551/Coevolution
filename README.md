@@ -34,7 +34,7 @@ This project simulates a coevolutionary system involving **predators** and **pre
 
 ### 🎥 Animation: Entity Movement & Interaction
 
-![Simulation Animation Preview](results/coevolution.png)
+![Simulation Animation Preview](results/animation.png)
 
 🎞️ Full video: [`results/animation.mp4`](results/animation.gif)
 
